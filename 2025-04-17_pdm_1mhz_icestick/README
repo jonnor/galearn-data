@@ -1,0 +1,2 @@
+python tools/pdm2pcm.py -i
+../galearn-data/2025-04-17_pdm_1mhz_icestick/opptak.raw -o output.wav
